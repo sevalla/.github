@@ -8,7 +8,7 @@
 
 Sevalla is the platform for deploying applications, databases and static sites, without managing the infrastructure underneath. You push code; Sevalla builds it, deploys it and keeps it up.
 
-[Sign up](https://sevalla.com/signup) · [Docs](https://docs.sevalla.com) · [API reference](https://api-docs.sevalla.com) · [Status](https://status.sevalla.com) · [Discord](https://discord.gg/sevalla) · [X](https://x.com/sevalla_hosting)
+[Sign up](https://sevalla.com/signup) · [Docs](https://docs.sevalla.com) · [API reference](https://api-docs.sevalla.com) · [Status](https://status.sevalla.com) · [X](https://x.com/sevalla_hosting)
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://assets.sevalla.com/screenshots/dark/app-overview.png" />
