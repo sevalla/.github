@@ -1,5 +1,5 @@
-<!-- From sevalla-design's snippets/github/profile-README.md, with screenshots added. Every image is
-     linked from assets.sevalla.com, so it changes when the brand and the app do. -->
+<!-- Sevalla's profile on github.com/sevalla: profile/README.md in the .github
+     repository. Built by sevalla-design (npm run build): change it there, not here. -->
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://assets.sevalla.com/brand/social/github/profile-banner-dark.png" />
@@ -26,14 +26,14 @@ Sevalla is the platform for deploying applications, databases and static sites, 
 | **Pipelines** | Preview environments for pull requests, and promotion from one stage to the next. |
 
 <p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://assets.sevalla.com/screenshots/dark/pipeline-board-production-apps.png" />
-    <img src="https://assets.sevalla.com/screenshots/light/pipeline-board-production-apps.png" width="49%" alt="A pipeline in Sevalla: preview apps for pull requests, a staging app ready to promote, and production apps." />
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://assets.sevalla.com/screenshots/dark/database-studio-sql-console.png" />
-    <img src="https://assets.sevalla.com/screenshots/light/database-studio-sql-console.png" width="49%" alt="Database Studio's SQL console: a query on a products table and its result as JSON." />
-  </picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://assets.sevalla.com/screenshots/dark/pipeline-board-production-apps.png" />
+  <img src="https://assets.sevalla.com/screenshots/light/pipeline-board-production-apps.png" width="49%" alt="A pipeline in Sevalla: preview apps for pull requests, a staging app ready to promote, and production apps." />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://assets.sevalla.com/screenshots/dark/database-studio-sql-console.png" />
+  <img src="https://assets.sevalla.com/screenshots/light/database-studio-sql-console.png" width="49%" alt="Database Studio's SQL console: a query on a products table and its result as JSON." />
+</picture>
 </p>
 
 Sevalla is SOC 2 Type II certified, with SAML single sign-on and team-based access control.
